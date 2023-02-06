@@ -10,4 +10,4 @@ QGIS, kullanıcının verileri görselleştirmesini, yönetmesini, düzenlemesin
 
 |  | |
 |-----------|-------------|
-| ![geoserver_win11_2](https://user-images.githubusercontent.com/95212909/177105030-c49b3f67-e248-4af6-bf15-23921d057f35.png) |[Windows için kurulum videosuna buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=oTz2nOHUqWk) |
+| ![qgis_2_adim](https://user-images.githubusercontent.com/95212909/216920521-36371a37-b117-4869-8c0f-a1bfb2e72113.png) |[Windows için kurulum videosuna buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=oTz2nOHUqWk) |
